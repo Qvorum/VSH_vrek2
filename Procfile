@@ -1,1 +1,1 @@
-web: python Verk2.py
+web: python verk2.py
